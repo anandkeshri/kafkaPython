@@ -3,7 +3,7 @@ import json
 import time
 from cStringIO import StringIO
 
-_INTERVAL = 10
+_INTERVAL = 30
 _MESSAGE_INDEX = 6
 _KAFKA_QUEUE = 'sales_receipts'
 
